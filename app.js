@@ -6,8 +6,6 @@ new Vue({
     gameIsRunning: false,
     damageByMonster: -1,
     damageByPlayer: -1,
-    minDamage: 3,
-    maxDamage: 8,
     logs: [],
   },
   methods: {
